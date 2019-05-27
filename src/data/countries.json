@@ -1,0 +1,8 @@
+{"name":"Poland","unit_system":"metric","language":"polish","capital":"Warsaw","in_EU":true}
+{"name":"Germany","unit_system":"metric","language":"german","capital":"Berlin","in_EU":true}
+{"name":"United Kingdom","unit_system":"imperial","language":"english","capital":"London","in_EU":true}
+{"name":"Russia","unit_system":"metric","language":"russian","capital":"Moscow","in_EU":false}
+{"name":"Ukraine","unit_system":"metric","language":"ukrainian","capital":"Kiev","in_EU":false}
+{"name":"France","unit_system":"metric","language":"french","capital":"Paris","in_EU":true}
+{"name":"Spain","unit_system":"metric","language":"spanish","capital":"Madrid","in_EU":true}
+{"name":"Italy","unit_system":"metric","language":"italian","capital":"Rome","in_EU":true}
